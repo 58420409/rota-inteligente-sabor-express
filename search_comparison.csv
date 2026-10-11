@@ -1,0 +1,4 @@
+method,path,estimated_time_min,estimated_distance_km,note
+A*,D -> S -> H,20.0,8.4,A* minimizes weighted time; BFS/DFS are references and do not optimize weighted cost.
+BFS,D -> S -> H,20.0,8.4,A* minimizes weighted time; BFS/DFS are references and do not optimize weighted cost.
+DFS,D -> C -> L -> H,23.0,9.8,A* minimizes weighted time; BFS/DFS are references and do not optimize weighted cost.

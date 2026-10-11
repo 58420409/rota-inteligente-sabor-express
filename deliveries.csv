@@ -1,0 +1,9 @@
+delivery_id,node_id,x_km,y_km,priority
+PED001,C,2.0,1.0,normal
+PED002,N,1.0,4.0,high
+PED003,L,5.0,2.0,normal
+PED004,S,1.0,-3.0,normal
+PED005,O,-3.0,1.0,high
+PED006,P,4.0,5.0,normal
+PED007,M,-2.0,-3.0,normal
+PED008,H,6.0,-2.0,high
